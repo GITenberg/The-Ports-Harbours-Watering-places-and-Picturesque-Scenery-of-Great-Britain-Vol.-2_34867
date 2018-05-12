@@ -1,0 +1,49 @@
+_repo: The-Ports-Harbours-Watering-places-and-Picturesque-Scenery-of-Great-Britain-Vol.-2_34867
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Harding, James Duffield
+    alias: Harding, J. D. (James Duffield)
+    birthdate: 1798
+    deathdate: 1863
+    gutenberg_agent_id: '37285'
+    url: http://www.gutenberg.org/2009/agents/37285
+  - agent_name: Creswick, Thomas
+    alias: Creswick, T. (Thomas)
+    birthdate: 1811
+    deathdate: 1869
+    gutenberg_agent_id: '37286'
+    url: http://www.gutenberg.org/2009/agents/37286
+  - agent_name: Bartlett, W. H. (William Henry)
+    alias: Bartlett, William Henry
+    birthdate: 1809
+    deathdate: 1854
+    gutenberg_agent_id: '37284'
+    url: http://www.gutenberg.org/2009/agents/37284
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Finden, W. (William)
+    alias: Finden, William
+    birthdate: 1787
+    deathdate: 1852
+    gutenberg_agent_id: '37283'
+    url: http://www.gutenberg.org/2009/agents/37283
+description: ''
+gutenberg_issued: '2011-01-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34867'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Coasts -- Great Britain -- Pictorial works'
+- !lcsh 'Great Britain -- Pictorial works'
+- !lcc 'DA'
+title: The Ports, Harbours, Watering-places and Picturesque Scenery of Great Britain
+  Vol. 2
+url: http://www.gutenberg.org/ebooks/34867
