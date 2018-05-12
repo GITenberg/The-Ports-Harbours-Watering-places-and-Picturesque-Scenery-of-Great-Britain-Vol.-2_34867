@@ -32,6 +32,8 @@ creator:
     gutenberg_agent_id: '37283'
     url: http://www.gutenberg.org/2009/agents/37283
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34867#The-Ports-Harbours-Watering-places-and-Picturesque-Scenery-of-Great-Britain-Vol.-2
 gutenberg_issued: '2011-01-06'
 gutenberg_type: Text
 identifiers:
